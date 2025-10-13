@@ -11,7 +11,8 @@
     <description>Builds, tests, and runs the project SistemaVentas.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
-
+/*Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+   */
     There exist several targets which are by default empty and which can be 
     used for execution of your tasks. These targets are usually executed 
     before and after some main targets. They are: 
