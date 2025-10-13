@@ -3,7 +3,25 @@ package sistemaventas;
 
 import Vista.Login;
 public class SistemaVentas {
-
+/**
+     * @param args the command line arguments
+     *//**
+     * @param args the command line arguments
+     *//**
+     * @param args the command line arguments
+     *//**
+     * @param args the command line arguments
+     *//**
+     * @param args the command line arguments
+     *//**
+     * @param args the command line arguments
+     *//**
+     * @param args the command line arguments
+     *//**
+     * @param args the command line arguments
+     *//**
+     * @param args the command line arguments
+     */
     /**
      * @param args the command line arguments
      */
